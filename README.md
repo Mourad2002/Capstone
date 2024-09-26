@@ -1,8 +1,5 @@
-# 3081w Final Project
 
-## Group Members
-- Nadir Mustafa [musta099]
-- Mohamed Mourad [moura028]
+- Mohamed Mourad 
 
 ## Important Links
 - YouTube Presentation: [Link to Video](https://www.youtube.com/watch?v=rmfun5nBGPQ)
